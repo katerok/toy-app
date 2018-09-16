@@ -21,4 +21,10 @@ Things you may want to cover:
 
 * Deployment instructions
 
+# Ruby on Rails Tutorial
+
+## "toy_app"
+
+This is the first application 
+
 * ...
